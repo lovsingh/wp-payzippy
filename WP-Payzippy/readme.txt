@@ -1,8 +1,9 @@
+<h1>For Professional support follow lov.singh@live.com</h1>
 === WooCommerce PayZippy Payment Gateway ===
-Contributors: payzippy
+Author: lov.singh@live.com
 Tags: WooCommerce, PayZippy, Payment Gateway, Debit Card, Credit Card, NetBanking
 Requires at least: 3.0.1
-Tested up to: 3.7.1
+Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
