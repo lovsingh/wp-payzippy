@@ -1,10 +1,10 @@
 <?php
 
 /*
-Plugin Name: WooCommerce PayZippy Payment Gateway
+Plugin Name: WP-PayZippy Payment Gateway
 Description: Extends WooCommerce with PayZippy Payment Gateway.
 Version: 1.0.7
-Author: PayZippy
+Author: lov.singh@live.com
 */
 require('lib/Constants.php');
 require_once('lib/ChargingRequest.php');
